@@ -1,0 +1,201 @@
+#colori_caldi{
+    text-align: center;
+    font-family: 'elephant'; 
+    font-size: 25px;
+}
+
+#contenitore_caldi{
+    width: 100%;
+    text-align: center;
+    margin: 5px;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+#rosso_scuro{
+    background-color: darkred;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    font-family: 'elephant';
+    font-size: 20px;
+}
+
+#rosso{
+    background-color: red;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    font-family: 'elephant';
+    font-size: 20px;
+}
+
+#arancio{
+    background-color: orange;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    font-family: 'elephant';
+    font-size: 20px;
+}
+
+#giallo_ocra{
+    background-color: yellow;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    font-family: 'elephant';
+    font-size: 20px;
+}
+
+#giallo_canarino{
+    background-color: rgb(255, 255, 102);
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    font-family: 'elephant';
+    font-size: 20px;
+}
+
+#colori_freddi{
+    text-align: center;
+    font-family: 'elephant'; 
+    margin-top: 300px;
+    font-size: 25px;
+}
+
+#contenitore_freddi{
+    width: 100%;
+    text-align: center;
+    margin: 5px;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+#blu_scuro{
+    background-color: darkblue;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    font-family: 'elephant';
+    font-size: 20px;
+}
+
+#azzurro{
+    background-color: blue;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    font-family: 'elephant';
+    font-size: 20px;
+}
+
+#ciano{
+    background-color: cyan;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    font-family: 'elephant';
+    font-size: 20px;
+}
+
+#lime{
+    background-color: lime;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    font-family: 'elephant';
+    font-size: 20px;
+}
+
+#verde{
+    background-color: green;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    font-family: 'elephant';
+    font-size: 20px;
+}
+
+#quadratoperilcerchio{
+    height: ;
+}
+
+#cerchiopagine{
+    height: 30vw;
+    width: 30vw;
+    position: absolute;
+    border-radius: 50%;
+    align-items: center;
+    margin-left: 35vw;
+    
+}
+
+#infocolore{
+    margin-top: 80vh;
+}
+
+a:link, a:visited {
+    text-decoration: underline;
+    color: black;
+    background-color: transparent;
+}
+
+a:hover {
+    color:grey; 
+}
